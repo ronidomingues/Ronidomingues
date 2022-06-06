@@ -1,5 +1,5 @@
 <p align="center">
-  <i>Hello I'm Ronivaldo, <strong>Full Stack Developer</strong></i>  👋👨
+  <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i>  👋👨
   <br>
   <i>Programming lover</i>  😁
 </p>
