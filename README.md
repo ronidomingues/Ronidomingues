@@ -1,6 +1,6 @@
 <p align="center">
   <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i>  👋👨
-  <br>
+  <br/>
   <i>Programming lover</i>  😁
 </p>
 
@@ -32,3 +32,6 @@ ____
   ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
   ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 </p>
+
+
+[![card](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom)](https://github.com/Ronidandrade/)
