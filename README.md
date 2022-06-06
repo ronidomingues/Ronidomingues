@@ -1,7 +1,7 @@
 <p align="center">
-  <i>Olá sou o Ronivaldo, <strong>Desenvolvedor Full Stack</strong></i>  👋👨
+  <i>Hello I'm Ronivaldo, <strong>Desenvolvedor Full Stack</strong></i>  👋👨
   <br>
-  <i>Amante de programação</i>  😁
+  <i>Programming lover</i>  😁
 </p>
 
 ____
