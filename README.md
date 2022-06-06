@@ -43,3 +43,6 @@ ____
 ![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
+
+
+[Google](https://google.com" target="_blank)
