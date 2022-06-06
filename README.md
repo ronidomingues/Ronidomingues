@@ -35,3 +35,11 @@ ____
 
 
 [![card](https://github-readme-streak-stats.herokuapp.com/?user=Cailtom)](https://github.com/Ronidandrade/)
+![Perf](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade)
+
+
+[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
+![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)
+[![Linkdin Badge](https://img.shields.io/badge/-Linkedln-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
+![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)
