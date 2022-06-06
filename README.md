@@ -5,3 +5,8 @@
 </p>
 
 ____
+
+
+<p align="left">
+  <h3> :rocket: &nbsp;My Skills </h3>
+</p>
