@@ -1,7 +1,7 @@
 <p align="center">
-  <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i>  👋👨
+  <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> :raising_hand_man:
   <br/>
-  <i>Programming lover</i>  😁
+  <i>Programming lover</i> :man_student:
 </p>
 
 ____
@@ -40,9 +40,6 @@ ____
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-333333?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
-![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)
+[![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)](https://www.messenger.com/t/ronivaldodeandrade/)
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
-
-
-
