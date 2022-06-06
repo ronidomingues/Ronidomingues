@@ -1,7 +1,7 @@
 <p align="center">
   <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> :raising_hand_man:
   <br/>
-  <i>Programming lover</i> :man_student:
+  <i>Programming lover</i> :man_student: :desktop_computer:
 </p>
 
 ____
