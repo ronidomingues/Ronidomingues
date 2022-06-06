@@ -45,4 +45,4 @@ ____
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
 
 
-[Link](https://example.org/ "title" target="_blank")
+
