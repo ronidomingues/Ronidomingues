@@ -63,5 +63,6 @@ ____
 ___
 
 
-[![card](https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade)](https://github.com/Ronidandrade/)
-![Perf](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade)
+[![Status_by_heroku](https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade)](https://github.com/Ronidandrade/)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade)
+![Status_by_vercel](https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="350")
