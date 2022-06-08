@@ -1,16 +1,18 @@
 <p align="center">
-  <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> :raising_hand_man:
+  <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> &nbsp; :raising_hand_man:
   <br/>
-  <i>Programming lover</i> :man_student: :desktop_computer:
+  <i>Programming lover</i> &nbsp; :man_student: &nbsp; :desktop_computer:
 </p>
 
 ____
 
 
-<h3> :call_me_hand: &nbsp;Reach Me!</h3>
+<h3> :call_me_hand: &nbsp; Reach Me!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ronivaldoandrade/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
 
 
-[![Linkdin](https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
