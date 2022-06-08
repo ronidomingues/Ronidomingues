@@ -65,4 +65,7 @@ ___
   <tr>
     <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade&theme=dark" width="400px"/></a></th>
   </tr>
+  <tr>
+    <th colspan="2"><a href="#"><img src="https://badges.pufler.dev/visits/Ronidandrade/Ronidandrade"/></a></th>
+  </tr>
 </table>
