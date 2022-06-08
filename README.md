@@ -15,16 +15,10 @@ ____
   <a href="https://www.instagram.com/andrade.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp; 
   <a href="https://www.messenger.com/t/ronivaldodeandrade/" target="_blank"><img src="https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white"/></a>
 </p>
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
-
-
 <p align="left">
   <h3> :rocket: &nbsp;My Skills </h3>
-  
-  
-  **Languages:**
+  <h4>Languages:</h4>
   
   
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
