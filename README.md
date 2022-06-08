@@ -14,7 +14,7 @@ ____
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
 [![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)](https://www.messenger.com/t/ronivaldodeandrade/)<!--Messenger-333333-->
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)<!--https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white-->
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
