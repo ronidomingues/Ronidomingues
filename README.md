@@ -10,7 +10,7 @@ ____
 <h3> :call_me_hand: &nbsp;Reach Me!</h3>
 
 
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
 [![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)](https://www.messenger.com/t/ronivaldodeandrade/)<!--Messenger-333333-->
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
@@ -37,6 +37,8 @@ ____
   
   
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   
   
   **Tools:**
