@@ -62,7 +62,7 @@ ____
 
 ___
 
-<p align="left">
+<p align="center">
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade" width="350px"/></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a>
   </br>
