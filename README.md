@@ -33,6 +33,8 @@ ____
   ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 </p>
 
+___
+
 
 [![card](https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade)](https://github.com/Ronidandrade/)
 ![Perf](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade)
