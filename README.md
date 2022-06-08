@@ -1,7 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
-
-
-
 <p align="center">
   <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> :raising_hand_man:
   <br/>
@@ -9,6 +5,9 @@
 </p>
 
 ____
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
 
 
 <p align="left">
