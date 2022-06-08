@@ -19,7 +19,7 @@ ____
 <p align="left">
   <h3> :rocket: &nbsp;My Skills </h3>
   <h4>Languages:</h4>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+  <a href="https://www.python.org/" alt="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
   <a href="https://js.org/"><img src="https://img.shields.io/badge/javascript-FFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="https://php.org/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
