@@ -66,8 +66,9 @@ ___
 <table align="center" border="4">
   <tr>
     <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="350px"/></a></td>
+    <td rowspan="2"><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade" width="350px"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a></td>
   </tr>
 </table>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade" width="350px"/></a>
-
