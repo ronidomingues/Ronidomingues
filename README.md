@@ -63,7 +63,7 @@ ____
 ___
 
 
-<table align="center" border="0">
+<table align="center" border="none">
   <tr>
     <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="350px"/></a></td>
     <td rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a></td>
