@@ -17,14 +17,18 @@ ____
 </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
 <p align="left">
+  
   <h3> :rocket: &nbsp;My Skills </h3>
+  
   <h4>Languages:</h4>
+  
   <a href="https://www.python.org/" alt="Python"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
   <a href="https://js.org/"><img src="https://img.shields.io/badge/javascript-FFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   <a href="https://php.org/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a href="https://latex.org/forum/"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
+  
   <h4>Frameworks and Libraries:</h4>
   
   
@@ -33,7 +37,7 @@ ____
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
   
   
-  **Tools:**
+  <h4>Tools:</h4>
 
 
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -55,7 +59,7 @@ ___
 
 <table align="center">
   <tr>
-    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="350px"/></a></td>
+    <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="400px"/></a></td>
     <td rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a></td>
   </tr>
   <tr>
