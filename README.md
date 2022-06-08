@@ -7,7 +7,7 @@
 ____
 
 
-<h3>Reach Me!</h3>
+<h3> :call_me_hand: &nbsp;Reach Me!</h3>
 
 
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-333333?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
