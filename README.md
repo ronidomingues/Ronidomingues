@@ -1,3 +1,4 @@
+<img src="" min-width="400px" max-width="400px" width="370px" align="right" alt=""/>
 <p align="center">
   <i>Hallo, ich bin Ronivaldo, <strong>Full-Stack-Entwickler</strong></i> :raising_hand_man:
   <br/>
