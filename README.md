@@ -21,20 +21,11 @@ ____
   <h4>Languages:</h4>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
   <a href="https://js.org/"><img src="https://img.shields.io/badge/javascript-FFF?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
-  <a href=""><img src=""/></a>
-  <a href=""><img src=""/></a>
-  <a href=""><img src=""/></a>
-  <a href=""><img src=""/></a>
-  
-  
-  
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-  
-  
-  **Frameworks and Libraries:**
+  <a href="https://php.org/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://latex.org/forum/"><img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"/></a>
+  <h4>Frameworks and Libraries:</h4>
   
   
   ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
