@@ -11,10 +11,10 @@ ____
 <p>
   <a href="https://www.linkedin.com/in/ronivaldoandrade/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:ronidomingues@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://api.whatsapp.com/send?phone=55998412932&text=Olá!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5521998412932?text=%20)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/andrade.dev)
 [![Menssager](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)](https://www.messenger.com/t/ronivaldodeandrade/)
 
