@@ -15,13 +15,14 @@ ____
 [![Menssager Badger](https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white)](https://www.messenger.com/t/ronivaldodeandrade/)
 [![Linkdin Badge](https://img.shields.io/badge/-Linkedln-333333?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronivaldoandrade/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-333333?style=flat&logo=gmail&logoColor=white)](mailto:ronidomingues@poli.ufrj.br)
-  
-  
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="370px" align="right" alt="">
 
 
 <p align="left">
   <h3> :rocket: &nbsp;My Skills </h3>
+  
   
   **Languages:**
   
@@ -31,13 +32,16 @@ ____
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   
+  
   **Frameworks and Libraries:**
+  
   
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="flask">
   
   
   **Tools:**
+
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
