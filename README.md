@@ -60,9 +60,9 @@ ___
 <table align="center">
   <tr>
     <td><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="400px"/></a></td>
-    <td rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="350px"/></a></td>
+    <td rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade" width="400px"/></a></td>
   </tr>
   <tr>
-    <td><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade" width="350px"/></a></td>
+    <td><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade"/></a></td>
   </tr>
 </table>
