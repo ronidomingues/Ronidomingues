@@ -70,7 +70,7 @@ ___
 <table align="center">
   <tr>
     <th><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Ronidandrade&show_icons=true&count_private=true&theme=dark" width="400px"/></a></th>
-    <th rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade&theme=dark"/></a></th>
+    <th rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade"/></a></th>
   </tr>
   <tr>
     <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade&theme=dark" width="400px"/></a></th>
