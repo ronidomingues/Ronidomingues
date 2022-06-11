@@ -79,3 +79,5 @@ ___
     <th colspan="2"><a href="#"><img src="https://badges.pufler.dev/visits/Ronidandrade/Ronidandrade"/></a></th>
   </tr>
 </table>
+
+![card](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronidandrade)
