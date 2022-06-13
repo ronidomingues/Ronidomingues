@@ -73,7 +73,7 @@ ___
     <th rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=Ronidandrade"/></a></th>
   </tr>
   <tr>
-    <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ronidandrade" width="400px"/></a></th>
+    <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Ronidandrade" width="400px"/></a></th>
   </tr>
   <tr>
     <th colspan="2"><a href="#"><img src="https://badges.pufler.dev/visits/Ronidandrade/Ronidandrade"/></a></th>
