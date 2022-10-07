@@ -70,12 +70,12 @@ ___
 <table align="center">
   <tr>
     <th><a href="#"><img src="https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&theme=dark&username=Ronidandrade" width="400px"/></a></th>
-    <th rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=Ronidandrade"/></a></th>
+    <th rowspan="2"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=Ronidomingues"/></a></th>
   </tr>
   <tr>
-    <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Ronidandrade" width="400px"/></a></th>
+    <th><a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?theme=dark&user=Ronidomingues" width="400px"/></a></th>
   </tr>
   <tr>
-    <th colspan="2"><a href="#"><img src="https://badges.pufler.dev/visits/Ronidandrade/Ronidandrade"/></a></th>
+    <th colspan="2"><a href="#"><img src="https://badges.pufler.dev/visits/Ronidomingues/Ronidomingues"/></a></th>
   </tr>
 </table>
