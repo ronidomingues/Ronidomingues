@@ -13,7 +13,7 @@ ____
   <a href="https://discord.com/channels/@Ronivaldo Andrade#0719"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp; 
   <a href="mailto:ronidomingues@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp; 
   <a href="https://api.whatsapp.com/send?phone=55998412932&text=Olá!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a> &nbsp; 
-  <a href="https://www.instagram.com/andrade.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp; 
+  <a href="https://www.instagram.com/self.andrade" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp; 
   <a href="https://www.messenger.com/t/ronivaldodeandrade/" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white"/></a>
 <!--"https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white"-->
 </p>
