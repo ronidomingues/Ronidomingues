@@ -9,11 +9,11 @@ ____
 
 <h3> :call_me_hand: &nbsp; Reach Me!</h3>
 <p>
-  <a href="https://www.linkedin.com/in/ronivaldoandrade/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; 
-  <a href="https://discord.com/channels/@Ronivaldo Andrade#0719"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp; 
-  <a href="mailto:ronidomingues@poli.ufrj.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/rdadomingues/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-0077B5?style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; 
+  <a href="https://discord.com/channels/@ronidomingues"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a> &nbsp; 
+  <a href="mailto:ronidomingues.rda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> &nbsp; 
   <a href="https://api.whatsapp.com/send?phone=55998412932&text=Olá!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a> &nbsp; 
-  <a href="https://www.instagram.com/self.andrade" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp; 
+  <a href="https://www.instagram.com/self.domingues.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a> &nbsp; 
   <a href="https://www.messenger.com/t/ronivaldodeandrade/" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=flat&logo=messenger&logoColor=white"/></a>
 <!--"https://img.shields.io/badge/Messenger-333333?style=flat&logo=messenger&logoColor=white"-->
 </p>
